@@ -1,0 +1,10 @@
+{
+	"name": "NoMoreDistantRoost",
+	"version_number": "1.0.1",
+	"website_url": "",
+	"description": "Guarantees stage 1 is anything but Distant Roost",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2108",
+		"RiskofThunder-HookGenPatcher-1.2.3"
+	]
+}
