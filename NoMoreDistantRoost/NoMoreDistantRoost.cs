@@ -10,7 +10,7 @@ namespace NoMoreDistantRoost
     {
         public const string PluginAuthor = "callitricks";
         public const string PluginName = "NoMoreDistantRoost";
-        public const string PluginVersion = "1.0.1";
+        public const string PluginVersion = "1.0.3";
         public const string PluginGUID = PluginAuthor + "." + PluginName;
 
         private void Awake()

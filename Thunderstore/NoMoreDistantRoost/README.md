@@ -12,8 +12,6 @@ Because Distant Roost is bad map
 ## Requirements
 - BepInExPack 5.4.2108 or newer
 - HookGenPatcher 1.2.3
-- R2API Items 1.0.1
-- R2API Language 1.0.0
 
 ## Installation
 1. Install the latest BepInExPack for Risk of Rain 2.
@@ -28,3 +26,7 @@ Or just use a mod manager ^_^
 
 ## Changelog
 See `CHANGELOG.md` for a complete version history.
+
+## Discord
+
+my dc is `callitricks` - feel free to DM me if you run into any issues or bugs

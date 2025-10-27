@@ -1,6 +1,6 @@
 {
 	"name": "NoMoreDistantRoost",
-	"version_number": "1.0.1",
+	"version_number": "1.0.3",
 	"website_url": "",
 	"description": "Guarantees stage 1 is anything but Distant Roost",
 	"dependencies": [
