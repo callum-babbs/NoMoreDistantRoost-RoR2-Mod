@@ -1,3 +1,7 @@
+## 1.0.4
+
+- recompile for alloyed collective
+
 ## 1.0.3
 
 - update readme
